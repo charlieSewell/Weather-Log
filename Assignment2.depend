@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1591868412 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\main.cpp
+	<iostream>
+	"Menu.h"
+	"WindLog.h"
+	"WindLogType.h"
+
+1591553932 "
+
+1588249197 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\src\vector.cpp
+
+1591892197 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\src\date.cpp
+	"date.h"
+
+1591514112 
+
+1591512761 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\date.h
+	<iostream>
+	<string>
+	<sstream>
+
+1591868810 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\src\menu.cpp
+	"Menu.h"
+
+1591868636 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\menu.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Vector.h"
+	"WindLog.h"
+
+1588510532 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\vector.h
+	<iostream>
+
+1591634520 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\windlog.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<map>
+	<vector>
+	"Vector.h"
+	"BST.h"
+	"WindLogType.h"
+
+1591513498 pe.h"
+
+1591512824 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\windlogtype.h
+	<iostream>
+	"Date.h"
+	"MyTime.h"
+
+1591514068 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\mytime.h
+	<iostream>
+	<string>
+	<sstream>
+
+1591514112 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\src\mytime.cpp
+	"MyTime.h"
+
+1591892236 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\src\windlog.cpp
+	"WindLog.h"
+
+1591595241 source:c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\src\windlogtype.cpp
+	"WindLogType.h"
+
+1591599762 c:\users\charl\onedrive - murdoch university\ict289\edge\assignment2\include\bst.h
+	<iostream>
+	<functional>
+
+1591554262 l>
+
+1591512781 source:/Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/src/Date.cpp
+	"date.h"
+
+1591536284 source:/Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/src/Menu.cpp
+	"Menu.h"
+
+1591514112 source:/Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/src/MyTime.cpp
+	"MyTime.h"
+
+1588249197 source:/Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/src/Vector.cpp
+
+1591553932 source:/Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/src/WindLog.cpp
+	"WindLog.h"
+
+1591513498 source:/Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/src/WindLogType.cpp
+	"WindLogType.h"
+
+1588506324 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/Menu.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Vector.h"
+	"WindLog.h"
+
+1588510532 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/Vector.h
+	<iostream>
+
+1591522392 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/WindLog.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<map>
+	"Vector.h"
+	"BST.h"
+	"WindLogType.h"
+
+1591554262 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/BST.h
+	<iostream>
+	<functional>
+
+1591512824 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/WindLogType.h
+	<iostream>
+	"Date.h"
+	"MyTime.h"
+
+1591512761 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/Date.h
+	<iostream>
+	<string>
+	<sstream>
+
+1591514068 /Users/davidsewell/Desktop/OneDrive - Murdoch University/ICT289/edge/Assignment2/include/MyTime.h
+	<iostream>
+	<string>
+	<sstream>
+
+1612841477 source:c:\users\charl\desktop\assignment2\main.cpp
+	<iostream>
+	"Menu.h"
+	"WindLog.h"
+	"WindLogType.h"
+
+1591868638 c:\users\charl\desktop\assignment2\include\menu.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Vector.h"
+	"WindLog.h"
+
+1612841642 c:\users\charl\desktop\assignment2\include\vector.h
+	<iostream>
+
+1591634522 c:\users\charl\desktop\assignment2\include\windlog.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<map>
+	<vector>
+	"Vector.h"
+	"BST.h"
+	"WindLogType.h"
+
+1591599764 c:\users\charl\desktop\assignment2\include\bst.h
+	<iostream>
+	<functional>
+
+1591512826 c:\users\charl\desktop\assignment2\include\windlogtype.h
+	<iostream>
+	"Date.h"
+	"MyTime.h"
+
+1591512762 c:\users\charl\desktop\assignment2\include\date.h
+	<iostream>
+	<string>
+	<sstream>
+
+1591514070 c:\users\charl\desktop\assignment2\include\mytime.h
+	<iostream>
+	<string>
+	<sstream>
+
+1591892198 source:c:\users\charl\desktop\assignment2\src\date.cpp
+	"date.h"
+
+1612841711 source:c:\users\charl\desktop\assignment2\src\menu.cpp
+	"Menu.h"
+
+1591514114 source:c:\users\charl\desktop\assignment2\src\mytime.cpp
+	"MyTime.h"
+
+1588249198 source:c:\users\charl\desktop\assignment2\src\vector.cpp
+
+1591892238 source:c:\users\charl\desktop\assignment2\src\windlog.cpp
+	"WindLog.h"
+
+1591595242 source:c:\users\charl\desktop\assignment2\src\windlogtype.cpp
+	"WindLogType.h"
+
